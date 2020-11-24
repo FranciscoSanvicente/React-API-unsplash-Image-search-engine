@@ -13,7 +13,7 @@ As a requeriment for this example, you need to get your API Key in this website 
 To install and start:
 ```
 git clone https://github.com/FranciscoSanvicente/React-API-unsplash-Image-search-engine
-cd React-API-pixabay-Image-search-engine
+cd React-API-unsplash-Image-search-engine
 npm i
 npm start
 ```
